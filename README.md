@@ -6,7 +6,7 @@ This is a [Learn Next.js](https://nextjs.org/learn) template configured for ephe
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/pawlean/template-nextjs)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-nextjs)
 
 ## Get Started With Your Own Project
 
