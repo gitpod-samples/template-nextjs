@@ -8,3 +8,7 @@ tasks:
 ports:
   - port: 3000
     onOpen: open-preview
+    
+vscode:
+  extensions:
+    - dsznajder.es7-react-js-snippets
