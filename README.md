@@ -1,6 +1,6 @@
 # A Nextjs starter template on Gitpod
 
-This is a [Learn Next.js](https://nextjs.org/learn) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+This is a [Learn Next.js](https://nextjs.org/learn) template configured for ephemeral cloud development environments on [Gitpod](https://www.gitpod.io/).
 
 ## Next Steps
 
